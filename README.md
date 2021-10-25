@@ -1,6 +1,7 @@
 ### cursos
 https://www.udemy.com/course/hadoopstarterkit/learn/lecture/2995878#overview
 
+emplear versión 3.1.3
 
 ### videos
 https://www.youtube.com/watch?v=g7Qpnmi0Q-s
